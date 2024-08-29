@@ -13,3 +13,11 @@ Your goal is to create a functional form that allows customers to place their or
 To complete this project, you will use your understanding of controlled React forms. You’ll be using the State Hook to manage the state of the form, and employ event handlers to update the state of the form as the customer fills in their details.
 
 Let’s dive in and get started!
+
+Link to video walktrhough is below
+
+
+Learn React Saucy Tango Food Order Form:
+
+
+https://www.youtube.com/watch?v=v8FKiKOY3uU
